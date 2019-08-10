@@ -20,7 +20,7 @@ Lo et al (2002) have introduced a non-parametric statistics that measures the pr
 The following graph is taken from Hsu (2014) and it presents an illustration to use nearest neighborhood to measure local mean in predictivity score.
 
 <p align="center">
-  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-huang-page-10.PNG">
+  <img width="300" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-huang-page-10.PNG">
 </p>
 
 # Performance and Results 
