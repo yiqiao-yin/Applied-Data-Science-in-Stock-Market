@@ -1,7 +1,9 @@
 # Applied Data Science in Stock Market
 
 This repository provides crucial analysis of applied data science in stock market.
-![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/mainpage-technical-sample.png)
+<p align="center">
+  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/mainpage-technical-sample.png">
+</p>
 
 # Prerequisite
 
