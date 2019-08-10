@@ -18,16 +18,18 @@ Project summary: What is tomorrow's stock price? Under big data era, what search
 Lo et al (2002) have introduced a non-parametric statistics that measures the predictivity of a cluster of variables given a data set in discrete framework. After reading dissertation from Huang (2004) and Hsu (2014), we have adopted the extension of their methodology to measure predicitivity in continuous framework. 
 
 The following graph is taken from Hsu (2014) and it presents an illustration to use nearest neighborhood to measure local mean in predictivity score.
+
 <p align="center">
-![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-huang-page-10.PNG)
+  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-huang-page-10.PNG">
 </p>
 
 # Performance and Results 
 
 We present a 97% error reduction on average on 30 stocks in Dow Jones 30 Component on held-out test set. Below we present a sample of selected test set resutls for MMM for two comparisons: (1) the first is using time-series ARMA model, and (2) the second is using I-score as feature selection method before we do regression. 
-![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/MMM-TS.png)
-![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/MMM-Influence.png)
-
+<p align="center">
+  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/MMM-TS.png">
+  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/MMM-Influence.png">
+</p>
 
 # Presentation 
 
@@ -41,8 +43,9 @@ We also build a platform using Shiny App and this app should serve as supplement
 
 In additional to files above, we also provide a R notebook, [image](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/main-notebook.Rmd). This R notebook calls **RData** saved in the **doc** folder. Then the script produces the graphs such as the following. The R Notebook is meant to work as one of the many supplements in support of the presentation materials just like R Shiny App above.
 
-![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-dow-jones-30.PNG)
-
+<p align="center">
+  <img width="800" src="https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-dow-jones-30.PNG">
+</p>
 
 # About Author
 
