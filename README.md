@@ -33,7 +33,7 @@ We present a 97% error reduction on average on 30 stocks in Dow Jones 30 Compone
 
 # Presentation 
 
-Yiqiao Yin is the designated presenter for this presentation. He will mainly be using [Presentation Slides](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/Rubust%20Portfolio%20by%20Influence%20Measure%20-%20Presentation%20%5BYiqiao%20Yin%202018%5D.pdf) for the main material. For detailed reference, we invite our audience to read the paper on the [research site](https://yinscapital.com/research/). The paper is also uploaded to [zip folder](https://github.com/yiqiao-yin/Fall2018-Advanced-Data-Science-Final-Project/blob/master/doc/Robust%20Portfolio%20by%20Influence%20Measure.zip) in Github folder **doc**.
+Yiqiao Yin is the designated presenter for this presentation. He will mainly be using [Presentation Slides](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/doc/Rubust%20Portfolio%20by%20Influence%20Measure%20-%20Presentation%20%5BYiqiao%20Yin%202018%5D.pdf) for the main material. For detailed reference, we invite our audience to read the paper on the [research site](https://yinscapital.com/research/). The paper is also uploaded to [zip folder](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/doc/Robust%20Portfolio%20by%20Influence%20Measure.zip) in Github folder **doc**.
 
 # Shiny App
 
