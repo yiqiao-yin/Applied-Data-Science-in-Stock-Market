@@ -18,7 +18,9 @@ Project summary: What is tomorrow's stock price? Under big data era, what search
 Lo et al (2002) have introduced a non-parametric statistics that measures the predictivity of a cluster of variables given a data set in discrete framework. After reading dissertation from Huang (2004) and Hsu (2014), we have adopted the extension of their methodology to measure predicitivity in continuous framework. 
 
 The following graph is taken from Hsu (2014) and it presents an illustration to use nearest neighborhood to measure local mean in predictivity score.
+<p align="center">
 ![image](https://github.com/yiqiao-yin/Applied-Data-Science-in-Stock-Market/blob/master/figs/fig-huang-page-10.PNG)
+</p>
 
 # Performance and Results 
 
